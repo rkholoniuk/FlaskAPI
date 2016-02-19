@@ -1,0 +1,7 @@
+env/
+__pycache__
+test.db
+*.py[co]
+.idea
+.idea/
+static/bower_components
